@@ -33,8 +33,6 @@ x-ibm-configuration:
           type: blocklist
           values: []
         inject-proxy-headers: true
-    - generic-response:
-        version: 1.0.0
     finally: []
   activity-log:
     enabled: true
