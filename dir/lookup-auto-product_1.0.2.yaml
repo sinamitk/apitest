@@ -7,7 +7,7 @@ gateways:
 - datapower-api-gateway
 apis:
   lookup1.0.2:
-    $ref: lookup_1.0.2.yaml
+    name: lookup_1.0.2.yaml
 plans:
   default:
     title: Default Plan
